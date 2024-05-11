@@ -39,3 +39,11 @@ input{
     background-color: bisque;
     color: blue;
 }
+
+h1{
+    color: blue;
+    font-style: italic;
+    font-size: xx-large;
+    font-family: sans-serif;
+   
+}

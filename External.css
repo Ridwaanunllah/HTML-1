@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+
+}
+
+#now{
+    background-color: rgba(0, 0, 0, 0.531);
+    width:35%;
+    margin:auto;
+    padding: 2rem;
+    border-radius: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+input{
+    width: 17rem;
+    padding: 0.5rem;
+    background-color: bisque;
+    color: blue;
+}
+
+.btn{
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    background-color: bisque;
+    color: blue;
+}

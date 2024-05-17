@@ -10,6 +10,10 @@
     width: 40%;
     position: relative;
 }
+.tainer{
+    position: sticky;
+    
+}
 
 .tain{
     padding: 3rem;
@@ -18,5 +22,6 @@
     position: absolute;
     top: 50%;
     left: 50%;
+    
     
 }

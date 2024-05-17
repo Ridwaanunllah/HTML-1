@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(backy.jpg);
+    background-size: cover;
+}
+
+#one{
+    background-color: rgba(5, 4, 57, 0.385);
+    width:35%;
+    margin:auto;
+    padding: 2rem;
+    border-radius: 1rem;
+    color: rgba(4, 2, 28, 0.806);
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7.5%;
+}
+input{
+width: 17rem;
+padding: 0.5rem;
+background-color: rgba(11, 45, 120, 0.453);
+font-style: italic;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(4, 4, 37);
+padding: 0.5rem;
+width: 70%;
+border-radius: 1.5rem;
+
+
+}
+.but{
+    background-color: rgba(37, 16, 143, 0.43);
+    padding: 0.45rem;
+    border-radius: 0.65rem;
+    color: rgb(241, 241, 244);
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    border-style: double;
+    width: 6rem;
+}
+h1{
+    color: rgba(240, 239, 243, 0.745);
+    font-style: italic;
+    font-family: sans-serif;
+}
+p{
+    font-style: italic;
+    font-family: sans-serif;
+    color: black;
+    font-size: xx-large;
+}

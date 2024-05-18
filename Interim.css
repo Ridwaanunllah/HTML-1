@@ -7,15 +7,18 @@
 body{
     background-image: url(backy.jpg);
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    
 }
 
 #one{
-    background-color: rgba(5, 4, 57, 0.385);
+    background-color: rgba(5, 4, 57, 0.814);
     width:35%;
     margin:auto;
     padding: 2rem;
     border-radius: 1rem;
-    color: rgba(4, 2, 28, 0.806);
+    color: rgba(213, 211, 226, 0.806);
     font-style: italic;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
@@ -26,10 +29,10 @@ body{
 input{
 width: 17rem;
 padding: 0.5rem;
-background-color: rgba(11, 45, 120, 0.453);
+background-color: rgba(11, 46, 120, 0.726);
 font-style: italic;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-color: rgb(4, 4, 37);
+color: rgb(193, 193, 206);
 padding: 0.5rem;
 width: 70%;
 border-radius: 1.5rem;
@@ -55,6 +58,6 @@ h1{
 p{
     font-style: italic;
     font-family: sans-serif;
-    color: black;
+    color: rgb(241, 234, 234);
     font-size: xx-large;
 }
